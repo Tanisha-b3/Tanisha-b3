@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **html,css,javascript,java,c++**
+- 💬 Ask me about **html,Css,Javascript,Java,C++, MERN STACK **
 
 - 📫 How to reach me **tanishaborana970@gmail.com**
 
