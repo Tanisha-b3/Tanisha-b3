@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha borana</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=A+passionate+frontend+developer+from+India+%3A)" /> </h3>
+<h3 align="start"> <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=A+passionate+frontend+developer+from+India+%3A)" /> </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha-b3&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha-b3" /> </p>
