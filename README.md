@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Borana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+%7C+%F0%9F%8E%93;Software+Developer+%40+Apaxion+Technology+%F0%9F%92%BC;MERN+Stack+Developer+%F0%9F%8C%9F;Building+QR-based+%26+AI-powered+Apps+%F0%9F%9A%80;Open+Source+Contributor+%7C+Hacktoberfest+2023+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+%7C+CGPA+8.4+%F0%9F%8E%93;Software+Developer+%40+Apaxion+Technology+%F0%9F%92%BC;MERN+Stack+Developer+%F0%9F%8C%9F;Building+QR-based+%26+AI-powered+Apps+%F0%9F%9A%80;Open+Source+Contributor+%7C+Hacktoberfest+2023+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -14,6 +14,18 @@
 </p>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/tanisha-b3">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanisha-b3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="tanisha-b3 trophies"/>
+  </a>
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -57,6 +69,19 @@ const tanisha = {
 <details open>
 <summary><b>🍽️ QRCRAVE — QR-Based Digital Menu & Ordering System</b> &nbsp;<code>React.js · Node.js · Express.js · MongoDB</code></summary>
 <br/>
+
+> A restaurant ordering platform enabling contactless digital menus via QR codes.
+
+- 👥 Collaborated in a **team of 4** to build a full-stack QR-based ordering system.
+- ⚡ Implemented QR scanning for **dynamic menu generation**, cutting manual ordering time by **40%**.
+- 🔌 Integrated **5+ RESTful APIs** for menu display, cart management & order processing.
+- ✅ Achieved **99% successful order flow** through rigorous DB design and testing.
+
+![React](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://github.com/tanisha-b3)
 
 </details>
 
