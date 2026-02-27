@@ -58,19 +58,6 @@ const tanisha = {
 <summary><b>🍽️ QRCRAVE — QR-Based Digital Menu & Ordering System</b> &nbsp;<code>React.js · Node.js · Express.js · MongoDB</code></summary>
 <br/>
 
-> A restaurant ordering platform enabling contactless digital menus via QR codes.
-
-- 👥 Collaborated in a **team of 4** to build a full-stack QR-based ordering system.
-- ⚡ Implemented QR scanning for **dynamic menu generation**, cutting manual ordering time by **40%**.
-- 🔌 Integrated **5+ RESTful APIs** for menu display, cart management & order processing.
-- ✅ Achieved **99% successful order flow** through rigorous DB design and testing.
-
-![React](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://github.com/tanisha-b3)
-
 </details>
 
 <details>
