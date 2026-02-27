@@ -15,18 +15,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/tanisha-b3">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanisha-b3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="tanisha-b3 trophies"/>
-  </a>
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 ```javascript
