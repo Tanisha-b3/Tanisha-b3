@@ -143,42 +143,6 @@ const tanisha = {
 
 ---
 
-## 🎓 Education
-
-| 🏫 Institution | 📚 Degree | 📊 Score | 📅 Period |
-|---|---|---|---|
-| **Lakshmi Narain College of Technology, Bhopal** | B.Tech — Information Technology | **CGPA: 8.4** | Nov 2021 – Jun 2025 |
-| **Dashpur Vidhyalaya Mandsaur, Mandsaur** | Higher Secondary (12th) | **89.8%** | Apr 2019 – Aug 2020 |
-
----
-
-## 🏅 Achievements & Certifications
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎖️ Achievements
-- 🧩 **LeetCode Rating: 1450**
-- ⭐ **HackerRank 3-Star** in Java
-- 🇮🇳 **Smart India Hackathon 2023** — Participant
-- 🌍 **Hacktoberfest 2023** — Open Source Contributor
-- 🥉 **Bronze Medalist** — National GK Olympiad
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certifications
-- ☁️ **AWS Academy Cloud Foundations** — Amazon Web Services *(2023)*
-- 🔧 **DevOps Micro-Internship** — Pravin Mishra *(2024)*
-- 🔐 **Introduction to Cybersecurity** — Cisco Networking Academy
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
