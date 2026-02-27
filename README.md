@@ -39,7 +39,7 @@ const tanisha = {
   <tr>
     <td>
       <strong>🏢 Apaxion Technology — Software Developer</strong><br/>
-      📍 Noida, Uttar Pradesh &nbsp;|&nbsp; 🗓️ Nov 2025 – Present
+      📍 Noida, Uttar Pradesh &nbsp;|&nbsp; 🗓️ Nov 2025 – Feb 2025
       <ul>
         <li>Designed & built <strong>QR Cave</strong> — a QR-based restaurant menu & ordering app with a team of 4 engineers.</li>
         <li>Implemented QR code scanning for contactless digital menus & order placement.</li>
