@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Borana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Borana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20Enthusiast&descAlignY=58&descSize=17" width="100%"/> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+%7C+CGPA+8.4+%F0%9F%8E%93;Software+Developer+%40+Apaxion+Technology+%F0%9F%92%BC;MERN+Stack+Developer+%F0%9F%8C%9F;Building+QR-based+%26+AI-powered+Apps+%F0%9F%9A%80;Open+Source+Contributor+%7C+Hacktoberfest+2023+%F0%9F%8C%8D" alt="Typing SVG" />
 
