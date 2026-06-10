@@ -1,41 +1,32 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Borana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20Frontend%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Tanisha%20Borana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast&descAlignY=62&descSize=18&stroke=a78bfa&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+IT+%40+LNCT+Bhopal+%E2%80%94+CGPA+8.4;Software+Developer+%40+Apaxion+Technology;Building+QR-based+%26+AI-powered+Apps;MERN+Stack+%7C+React+%7C+Node+%7C+MongoDB;Cloud+%7C+AWS+%7C+Azure+%7C+Terraform" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+%7C+CGPA+8.4+%F0%9F%8E%93;Software+Developer+%40+Apaxion+Technology+%F0%9F%92%BC;MERN+Stack+Developer+%F0%9F%8C%9F;Building+QR-based+%26+AI-powered+Apps+%F0%9F%9A%80;Open+Source+Contributor+%7C+Hacktoberfest+2023+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tanisha-b3&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=PROFILE+VIEWS)](https://github.com/tanisha-b3)
-[![GitHub Followers](https://img.shields.io/github/followers/tanisha-b3?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/tanisha-b3)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-1450+-F59E0B?style=for-the-badge&labelColor=1e1b4b)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-3★%20JAVA-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://hackerrank.com/)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tanisha-b3&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tanisha-b3?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/LeetCode-Rating%201450-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-3%20Star%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
 
 </div>
 
----
+## 👩‍💻 About Me
 
-## `whoami`
-
-```ts
-const tanisha: Developer = {
+```javascript
+const tanisha = {
   name       : "Tanisha Borana",
-  education  : "B.Tech IT @ LNCT Bhopal  •  CGPA 8.4",
+  education  : "B.Tech IT @ LNCT Bhopal | CGPA: 8.4 🎓",
   role       : "Software Developer @ Apaxion Technology",
-  location   : "Bhopal / Noida, India",
+  location   : "Bhopal / Noida, India 🇮🇳",
   techStack  : ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
   languages  : ["JavaScript", "Java", "C++", "C"],
   cloud      : ["AWS", "Azure", "Terraform", "Vercel"],
-  building   : "QR-based ordering systems & AI travel apps",
-  impact     : "Reduced manual ordering overhead by 40% — one QR code at a time 🍽️",
+  askMeAbout : ["MERN Stack", "REST APIs", "IaC", "DSA", "Frontend"],
+  funFact    : "I reduced manual ordering overhead by 40% with a QR code! 🍽️"
 };
 ```
 
@@ -43,108 +34,111 @@ const tanisha: Developer = {
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="60px" align="center">
-<img src="https://img.shields.io/badge/-A-7c3aed?style=for-the-badge&logoColor=white" />
-</td>
-<td>
-
-**Software Developer — Apaxion Technology**
-`Nov 2024 – Apr 2025` &nbsp;|&nbsp; 📍 Noida, Uttar Pradesh
-
-- Designed and built **QR Cave** — a full-stack QR-based restaurant menu & ordering system with a team of 4.
-- Implemented contactless QR scanning for dynamic menus, replacing manual order workflows end-to-end.
-- Architected **React.js + Node.js** frontend/backend pipeline, achieving **99% successful order flow**.
-- **↓ 40% reduction** in manual ordering overhead through contactless QR technology.
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td>
+      <strong>🏢 Apaxion Technology — Software Developer</strong><br/>
+      📍 Noida, Uttar Pradesh &nbsp;|&nbsp; 🗓️ Nov 2025 – Apr 2025
+      <ul>
+        <li>Designed & built <strong>QR Cave</strong> — a QR-based restaurant menu & ordering app with a team of 4 engineers.</li>
+        <li>Implemented QR code scanning for contactless digital menus & order placement.</li>
+        <li>Built responsive UIs using <strong>React.js</strong> and <strong>Node.js</strong>.</li>
+        <li>🎯 Reduced manual ordering overhead by <strong>40%</strong> via contactless QR technology.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ QRCRAVE — QR-Based Digital Menu & Ordering System
+<details open>
+<summary><b>🍽️ QRCRAVE — QR-Based Digital Menu & Ordering System</b> &nbsp;<code>React.js · Node.js · Express.js · MongoDB</code></summary>
+<br/>
 
-> `React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB`
+> A restaurant ordering platform enabling contactless digital menus via QR codes.
 
-A restaurant ordering platform enabling contactless menus via QR codes. Collaborated in a team of 4 to build the entire MERN stack.
+- 👥 Collaborated in a **team of 4** to build a full-stack QR-based ordering system.
+- ⚡ Implemented QR scanning for **dynamic menu generation**, cutting manual ordering time by **40%**.
+- 🔌 Integrated **5+ RESTful APIs** for menu display, cart management & order processing.
+- ✅ Achieved **99% successful order flow** through rigorous DB design and testing.
 
-| Metric | Result |
-|--------|--------|
-| Order flow success rate | **99%** |
-| Manual ordering overhead reduction | **40%** |
-| RESTful APIs integrated | **5+** |
-| Team size | **4 engineers** |
+![React](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://github.com/tanisha-b3)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tanisha-b3)
+</details>
+
+<details>
+<summary><b>☁️ EPICBOOK — Azure Production Deployment</b> &nbsp;<code>Azure · Terraform · Node.js · React.js</code></summary>
+<br/>
+
+> Production-grade social media platform deployed on Microsoft Azure using Infrastructure as Code.
+
+- 🏗️ Deployed on **Azure** using **Terraform** with reusable modules (networking, compute, DB layers).
+- 🔁 Implemented IaC with **Terraform workspaces** (dev/prod), reducing provisioning time by **75%**.
+- 🔒 Configured **VNet, NSG, App Service, Azure Storage** for scalable, secure, cost-efficient architecture.
+
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat-square)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/tanisha-b3)
+
+</details>
+
+<details>
+<summary><b>✈️ EXPLORATRAILS — AI-Powered Travel Planning App</b> &nbsp;<code>React.js · Firebase · Gemini API</code></summary>
+<br/>
+
+> Full-stack travel planning platform with AI-driven recommendations serving 10,000+ monthly users.
+
+- 🌍 Served **10,000+ monthly users**, reducing trip-planning time by **40%** via AI suggestions.
+- 🤖 Integrated **Gemini API** for personalized travel recommendations, boosting engagement by **35%**.
+- 🔐 Implemented **Firebase Authentication** supporting **5,000+ registered users**.
+
+![React](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?logo=google&logoColor=white&style=flat-square)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://github.com/tanisha-b3)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/tanisha-b3)
+
+</details>
 
 ---
 
-### ☁️ EPICBOOK — Azure Production Deployment
+## 🛠️ Technical Skills
 
-> `Azure` &nbsp;·&nbsp; `Terraform` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `React.js`
+<div align="center">
 
-Production-grade social media platform deployed on Microsoft Azure using Infrastructure as Code. Built with reusable Terraform modules across dev/prod workspaces.
+### 💻 Languages & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-| Metric | Result |
-|--------|--------|
-| Provisioning time reduction via IaC | **75%** |
-| Infrastructure components | VNet · NSG · App Service · Azure Storage |
-| Environments managed | **dev / prod** via Terraform workspaces |
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tanisha-b3)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-### ✈️ EXPLORATRAILS — AI-Powered Travel Planning App
-
-> `React.js` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Gemini API`
-
-Full-stack AI travel planning platform with personalized recommendations powered by Gemini.
-
-| Metric | Result |
-|--------|--------|
-| Monthly active users | **10,000+** |
-| Trip-planning time reduction | **40%** |
-| Engagement boost via AI recommendations | **35%** |
-| Registered users via Firebase Auth | **5,000+** |
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://github.com/tanisha-b3)
-[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tanisha-b3)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
@@ -152,30 +146,25 @@ Full-stack AI travel planning platform with personalized recommendations powered
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanisha-b3&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-b3&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-b3&theme=midnight-purple&hide_border=true&background=0D1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-b3&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha-b3&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha-b3&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Borana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-borana-552797233)
-[![Gmail](https://img.shields.io/badge/Gmail-tanishaborana970%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishaborana970@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Borana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-borana-552797233)
+[![Gmail](https://img.shields.io/badge/Gmail-tanishaborana970%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishaborana970@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tanisha--b3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanisha-b3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1450+-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201450-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
@@ -183,6 +172,7 @@ Full-stack AI travel planning platform with personalized recommendations powered
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+### 💡 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
