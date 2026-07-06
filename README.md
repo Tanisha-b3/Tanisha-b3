@@ -16,7 +16,7 @@ Bhopal / Noida, India
 
 ```js
 const tanisha = {
-  role:      "Software Developer @ Apaxion Technology",
+  role:      "Software Developer ",
   education: "B.Tech IT · LNCT Bhopal · CGPA 8.4",
   stack:     ["React", "Node.js", "Express", "MongoDB", "Firebase"],
   cloud:     ["AWS", "Azure", "Terraform"],
