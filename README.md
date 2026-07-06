@@ -23,7 +23,7 @@
 
 ```js
 const tanisha = {
-  role:      "Software Developer,
+  role:      "Software Developer @ Autoniv AI",
   location:  "Madhya Pradesh, India 🇮🇳",
   education: "B.Tech IT · LNCT Bhopal · CGPA 8.4",
   stack:     ["React", "Node.js", "Express", "MongoDB", "Firebase"],
@@ -186,6 +186,6 @@ I'm open to **full-time roles** and **freelance projects** — let's build somet
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1d1&height=100&section=footer" width="100%"/>
 
-⭐️ From [Tanisha Borana](https://github.com/tanisha-b3)
+⭐️ From [Tanisha Borana](https://github.com/tanisha-b3) — casing may vary; GitHub usernames are case-insensitive.
 
 </div>
