@@ -1,171 +1,429 @@
 <div align="center">
 
-# Tanisha Borana
+👋 Hi, I'm Tanisha Borana
 
-### Software Developer · Full-Stack · AI & Backend
+Software Developer · Full-Stack Engineer · AI Enthusiast
 
-Bhopal, India
+Building scalable web applications, AI-powered products, and backend systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-borana-552797233)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishaborana970@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanisha-b3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanishaborana970/)
+<p>
+  <a href="https://www.linkedin.com/in/tanisha-borana-552797233">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanishaborana970@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tanisha-b3">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/tanishaborana970/">
+    <img src="https://img.shields.io/badge/LeetCode-1450-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
----
+🚀 About Me
 
-## About Me
+const tanisha = {
+  role: "Software Developer",
+  focus: [
+    "Full-Stack Development",
+    "AI Applications",
+    "Backend Engineering",
+    "REST APIs"
+  ],
 
-Software Developer focused on building full-stack applications, AI-enabled SaaS platforms, REST APIs, and modern web experiences.
+  frontend: [
+    "React.js",
+    "TypeScript",
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
 
-- 💻 Full-stack development with React, TypeScript, Node.js, Express.js, and MongoDB
-- 🤖 AI integrations using OpenAI, Gemini API, Vapi, Deepgram, and ElevenLabs
-- 🔌 REST API development and third-party service integration
-- ☁️ Cloud and deployment experience with AWS, Azure, Docker, Terraform, and Vercel
-- 🗄️ Experience with MongoDB, MySQL, Firebase, authentication, and application data workflows
-- 🧩 Interested in scalable backend systems, AI applications, and product-focused software development
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "Mongoose"
+  ],
 
----
+  databases: [
+    "MongoDB",
+    "MySQL",
+    "Firebase"
+  ],
 
-## Experience
+  ai: [
+    "OpenAI",
+    "Gemini API",
+    "Vapi",
+    "Deepgram",
+    "ElevenLabs"
+  ],
 
-### Full Stack Developer · Autoniv AI
+  cloud: [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Terraform",
+    "Vercel"
+  ],
 
-**Jun 2026 – Present · Remote**
+  currentlyBuilding: "AI-powered SaaS and full-stack applications"
+};
 
-- Developed React, TypeScript, and Node.js modules for a multi-tenant SaaS platform supporting AI voice agents and chatbots.
-- Owned **6+ AI-agent workflows** covering agent creation, voice configuration, knowledge setup, testing, deployment, and monitoring.
-- Integrated **8+ external services**, including Vapi, Deepgram, OpenAI, ElevenLabs, WhatsApp, and Twilio.
-- Designed and engineered **23 Express.js REST API modules** covering agent configuration, subscriptions, billing, usage tracking, and platform operations.
-- Worked across frontend and backend workflows to convert product requirements into integrated application features.
+💡 What I Build
 
-### Software Developer · Apaxion Technology
+<table>
+<tr>
+<td width="50%">
 
-**Use the exact dates verified on your resume/LinkedIn**
+🖥️ Full-Stack Applications
 
-- Partnered with a **4-member engineering team** to build QRCrave, a QR-based restaurant ordering platform.
-- Built **3 customer workflows** covering QR scanning, digital menu browsing, and checkout.
-- Connected responsive React interfaces with Node.js APIs across **3 ordering views**.
-- Integrated frontend components with backend APIs to deliver connected ordering functionality.
+Building production-oriented applications using:
 
----
+React.js
 
-## Featured Projects
+TypeScript
 
-### 🚀 Event Management System
+Node.js
 
-**MERN · Socket.io · JWT · Docker · Terraform · Twilio**
+Express.js
 
-Full-stack event management platform with authentication, event creation,
-dashboards, event discovery, ticketing, and real-time engagement features.
+MongoDB
 
-**Highlights**
-- 6 core application modules
-- Real-time discussion boards, polls, and Q&A
-- JWT-based authentication
-- Twilio SMS notifications
-- Docker-based application containerization
-- Terraform deployment configuration
+Firebase
 
-[Live Demo](https://event-management-olive-beta.vercel.app/) ·
-[Source Code](https://github.com/Tanisha-b3/Event_management)
+</td>
 
----
+<td width="50%">
 
-### ✈️ ExploraTrails
+🤖 AI Applications
 
-**React · Firebase · Gemini API**
+Working with modern AI APIs and platforms:
 
-AI-powered travel planning application that generates personalized
-destination and itinerary recommendations based on user preferences.
+OpenAI
 
-**Highlights**
-- Gemini API integration
-- Firebase authentication
-- Persistent travel-planning data
-- Personalized itinerary generation
-- Responsive React interface
+Gemini API
 
-[Live Demo](https://travelappproject.vercel.app/) ·
-[Source Code](https://github.com/Tanisha-b3/Travel_app)
+Vapi
 
----
+Deepgram
 
-### 🍽️ QRCrave
+ElevenLabs
 
-**React · Node.js · Express.js · MongoDB**
+AI voice workflows
 
-QR-based restaurant ordering platform designed around digital menus,
-customer ordering, and order-management workflows.
+</td>
+</tr>
 
-[Live Website](https://qrcrave.com/)
+<tr>
+<td width="50%">
 
----
+🔌 Backend & APIs
 
-## Technical Skills
+Experienced with:
 
-### Languages
-Java · JavaScript · TypeScript · C++
+REST API architecture
 
-### Frontend
-React.js · HTML5 · CSS3
+Authentication
 
-### Backend
-Node.js · Express.js · REST APIs · Mongoose
+Database integration
 
-### Databases
-MongoDB · MySQL · Firebase
+Third-party APIs
 
-### AI & Integrations
-OpenAI · Gemini API · Vapi · Deepgram · ElevenLabs · Twilio · WhatsApp
+Subscription workflows
 
-### Cloud & DevOps
-Docker · Terraform · AWS · Azure · Vercel
+Usage tracking
 
-### Tools
-Git · GitHub · Postman · VS Code · Socket.io · JWT
+</td>
 
----
+<td width="50%">
 
-## Achievements
+☁️ Cloud & DevOps
 
-- 🧩 LeetCode — **1450 Rating · 450+ Problems Solved**
-- ⭐ HackerRank — **3-Star Java**
-- 🏆 Smart India Hackathon — **2023**
-- 🌐 Hacktoberfest Contributor — **2023**
+Hands-on experience with:
 
----
+AWS
 
-## Education
+Azure
 
-**B.Tech in Information Technology**
+Docker
 
-Lakshmi Narain College of Technology, Bhopal  
-CGPA: **8.4** · 2021–2025
+Terraform
 
----
+Vercel
 
-## GitHub Activity
+Git/GitHub
+
+</td>
+</tr>
+</table>
+
+💼 Experience
+
+Full Stack Developer · Autoniv AI
+
+Jun 2026 – Present · Remote
+
+Developed React, TypeScript, and Node.js modules for a multi-tenant SaaS platform supporting AI voice agents and chatbots.
+
+Owned 6+ AI-agent workflows covering agent creation, voice configuration, knowledge setup, testing, deployment, and monitoring.
+
+Integrated 8+ external services, including Vapi, Deepgram, OpenAI, ElevenLabs, WhatsApp, and Twilio.
+
+Designed and engineered 23 Express.js REST API modules covering agent configuration, subscriptions, billing, usage tracking, and platform operations.
+
+Worked across frontend and backend workflows to transform product requirements into integrated application features.
+
+Software Developer · Apaxion Technology
+
+Use the exact verified dates from your resume / LinkedIn
+
+Partnered with a 4-member engineering team to build QRCrave, a QR-based restaurant ordering platform.
+
+Built 3 customer workflows covering QR scanning, digital menu browsing, and checkout.
+
+Connected React interfaces with Node.js APIs across 3 ordering views.
+
+Integrated frontend components with backend APIs to deliver connected ordering functionality.
+
+⭐ Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-b3&theme=tokyonight&hide_border=true" width="70%"/>
+Selected projects demonstrating full-stack, AI, and backend development
 
-<br/>
+</div>
+
+📅 Event Management System
+
+MERN Socket.io JWT Docker Terraform Twilio
+
+A full-stack event management platform designed around event creation,
+discovery, ticketing, dashboards, authentication, and real-time engagement.
+
+Highlights
+
+🔐 JWT authentication
+
+📅 Event creation and management
+
+📊 User and event dashboards
+
+💬 Real-time discussion boards
+
+📊 Live polls
+
+❓ Real-time Q&A
+
+🎟️ Ticketing workflows
+
+📱 Twilio SMS notifications
+
+🐳 Docker containerization
+
+⚙️ Terraform infrastructure
+
+<p>
+<a href="https://event-management-olive-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Tanisha-b3/Event_management">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+✈️ ExploraTrails
+
+React.js Firebase Gemini API
+
+AI-powered travel planning application that generates personalized
+destination and itinerary recommendations.
+
+Highlights
+
+🤖 Gemini API integration
+
+🔐 Firebase Authentication
+
+🗄️ Persistent user data
+
+📍 Destination planning
+
+📝 AI-generated itineraries
+
+👤 Personalized travel workflows
+
+📱 Responsive React interface
+
+<p>
+<a href="https://travelappproject.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Tanisha-b3/Travel_app">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+🍽️ QRCrave
+
+React.js Node.js Express.js MongoDB
+
+QR-based restaurant ordering platform focused on digital menus,
+customer ordering, and order-management workflows.
+
+Highlights
+
+📱 QR-based menu access
+
+🍽️ Digital menu browsing
+
+🛒 Customer ordering
+
+📦 Order management
+
+🔌 REST API integration
+
+📱 Responsive interface
+
+<p align="center">
+<a href="https://qrcrave.com/">
+<img src="https://img.shields.io/badge/Live_Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
+
+🧠 Technical Skills
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Java · JavaScript · TypeScript · C++</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>React.js · HTML5 · CSS3</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js · Express.js · REST APIs · Mongoose</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>MongoDB · MySQL · Firebase</td>
+</tr>
+
+<tr>
+<td><b>AI & APIs</b></td>
+<td>OpenAI · Gemini API · Vapi · Deepgram · ElevenLabs · Twilio · WhatsApp</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>AWS · Azure · Docker · Terraform · Vercel</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Git · GitHub · Postman · VS Code · Socket.io · JWT</td>
+</tr>
+</table>
+
+🏆 Achievements
+
+<div align="center">
+
+Achievement
+
+Result
+
+🧩 LeetCode
+
+1450 Rating · 450+ Problems
+
+⭐ HackerRank
+
+3-Star Java
+
+🏆 Smart India Hackathon
+
+2023
+
+🌐 Hacktoberfest
+
+2023 Contributor
+
+</div>
+
+🎓 Education
+
+Lakshmi Narain College of Technology, Bhopal
+
+B.Tech in Information Technology
+
+CGPA: 8.4 · 2021 – 2025
+
+📚 Currently Focused On
+
+Full-Stack Engineering
+        ↓
+AI Application Development
+        ↓
+Backend & REST API Design
+        ↓
+Cloud & DevOps
+        ↓
+Scalable Software Systems
+
+📈 GitHub
+
+<div align="center">
+
+<a href="https://github.com/Tanisha-b3?tab=repositories">
+
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha-b3&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
----
+Note: The contribution graph depends on a third-party service and may occasionally be unavailable. The profile intentionally avoids the unreliable streak-stat card.
+
+📫 Let's Connect
 
 <div align="center">
 
-### Let's build something useful.
+<a href="https://www.linkedin.com/in/tanisha-borana-552797233">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/tanisha-borana-552797233) ·
-[GitHub](https://github.com/Tanisha-b3) ·
-[LeetCode](https://leetcode.com/u/tanishaborana970/)
+<a href="mailto:tanishaborana970@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tanisha-b3">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/tanishaborana970/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+🚀 Building products · Solving problems · Learning continuously
+
+Thanks for visiting my profile!
 
 </div>
