@@ -270,24 +270,3 @@ Scalable Full-Stack Systems
 
 </div>
 
-# 📌 GitHub Highlights
-
-<div align="center">
-
-<a href="https://github.com/Tanisha-b3?tab=repositories">
-<img src="https://img.shields.io/badge/45%2B_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Tanisha-b3?tab=stars">
-<img src="https://img.shields.io/badge/GitHub_Stars-7-F5C518?style=for-the-badge&logo=github&logoColor=181717" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Build • Learn • Ship • Improve
-
-</div>
