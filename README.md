@@ -210,25 +210,34 @@ A personalized travel planner that generates travel recommendations based on use
 
 ---
 
-# 📌 GitHub Highlights
+# 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Tanisha-b3?tab=repositories">
-<img src="https://img.shields.io/badge/45%2B_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Tanisha-b3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  width="48%"
+/>
 
-<a href="https://github.com/Tanisha-b3?tab=stars">
-<img src="https://img.shields.io/badge/GitHub_Stars-7-F5C518?style=for-the-badge&logo=github&logoColor=181717" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-b3&theme=tokyonight&hide_border=true"
+  width="48%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha-b3&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/Tanisha-b3?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
-<br />
-
-I use GitHub to document projects, experiment with technologies, and build practical software across frontend, backend, AI, and cloud development.
-
-**[Explore all repositories →](https://github.com/Tanisha-b3?tab=repositories)**
 
 ---
 
@@ -270,3 +279,10 @@ Scalable Full-Stack Systems
 
 </div>
 
+---
+
+<div align="center">
+
+### Build • Learn • Ship • Improve
+
+</div>
